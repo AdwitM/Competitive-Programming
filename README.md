@@ -1,1 +1,1 @@
-# **Competetive Programming Practice**
+# **Competitive Programming Practice**
